@@ -3,7 +3,7 @@
 ## Git structure
 - main
 -- version x.x
-- dev
+- develop
 -- feat-x
 -- feat-y
 
