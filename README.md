@@ -3,12 +3,12 @@
 ## Git structure
 - main
 
--- version x.x
+    - version x.x
 
 - develop
 
--- feat-x
+    - feat-x
 
--- feat-y
+    - feat-y
 
 Workflow inspired by https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow
